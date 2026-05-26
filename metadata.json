@@ -1,0 +1,6 @@
+{
+  "name": "Media Pacing Tracker",
+  "description": "Seguimiento en tiempo real de pacing, presupuesto y objetivos de tus campañas directo desde Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
